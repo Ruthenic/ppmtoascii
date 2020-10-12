@@ -32,6 +32,7 @@ namespace ppmtoascii
             foreach (byte bytey in pixelinfo.ToArray()) {
                 Console.WriteLine(bytey);
             }
+            File.Delete("unheaderedppm.binary");
         }
     }
 }
