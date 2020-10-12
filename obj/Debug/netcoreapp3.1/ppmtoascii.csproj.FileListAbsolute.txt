@@ -1,0 +1,11 @@
+/home/ruthenic/Coding/csharp/ppmtoascii/bin/Debug/netcoreapp3.1/ppmtoascii
+/home/ruthenic/Coding/csharp/ppmtoascii/bin/Debug/netcoreapp3.1/ppmtoascii.deps.json
+/home/ruthenic/Coding/csharp/ppmtoascii/bin/Debug/netcoreapp3.1/ppmtoascii.runtimeconfig.json
+/home/ruthenic/Coding/csharp/ppmtoascii/bin/Debug/netcoreapp3.1/ppmtoascii.runtimeconfig.dev.json
+/home/ruthenic/Coding/csharp/ppmtoascii/bin/Debug/netcoreapp3.1/ppmtoascii.dll
+/home/ruthenic/Coding/csharp/ppmtoascii/bin/Debug/netcoreapp3.1/ppmtoascii.pdb
+/home/ruthenic/Coding/csharp/ppmtoascii/obj/Debug/netcoreapp3.1/ppmtoascii.csprojAssemblyReference.cache
+/home/ruthenic/Coding/csharp/ppmtoascii/obj/Debug/netcoreapp3.1/ppmtoascii.AssemblyInfoInputs.cache
+/home/ruthenic/Coding/csharp/ppmtoascii/obj/Debug/netcoreapp3.1/ppmtoascii.AssemblyInfo.cs
+/home/ruthenic/Coding/csharp/ppmtoascii/obj/Debug/netcoreapp3.1/ppmtoascii.dll
+/home/ruthenic/Coding/csharp/ppmtoascii/obj/Debug/netcoreapp3.1/ppmtoascii.pdb
