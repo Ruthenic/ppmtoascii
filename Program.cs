@@ -29,6 +29,9 @@ namespace ppmtoascii
             lines.RemoveRange(0, 3);
             File.WriteAllLines("unheaderedppm.binary", lines.ToArray());
             pixelinfo = File.ReadAllBytes("unheaderedppm.binary").ToList();
+            foreach (byte bytey in pixelinfo.ToArray()) {
+                Console.WriteLine(bytey);
+            }
         }
     }
 }
